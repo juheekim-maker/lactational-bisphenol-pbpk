@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Ontogeny-informed lactational PBPK model for bisphenols (BPA, BPF, BPS)
+message: If you use this software, please cite both the software and the paper.
+type: software
+authors:
+  - family-names: Kim
+    given-names: Ju Hee
+    orcid: https://orcid.org/0000-0001-6586-7244
+    affiliation: College of Nursing Science, Kyung Hee University, Seoul, Republic of Korea
+  - family-names: Park
+    given-names: Seungyoung
+  - family-names: Ji
+    given-names: Kyunghee
+  - family-names: Im
+    given-names: Hosub
+license: MIT
+version: 1.0.0
+date-released: "2026-09-27"
+keywords:
+  - PBPK
+  - bisphenol
+  - breast milk
+  - ontogeny
+  - internal dose
+  - infant exposure
